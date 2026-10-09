@@ -1,54 +1,123 @@
 <div align="center">
 
-# SONNY · by Ventures 52
+<img src="https://github.com/Ventures-52.png" width="96" alt="Ventures 52 logo" />
 
-**The AI-powered workforce marketplace for logistics and supply chain.**
+# Ventures 52
 
-[SONNY](https://workwithsonny.com) · [Ventures 52](https://www.ventures52.com) · [LinkedIn](https://www.linkedin.com/in/westonlabar) · [Contact](mailto:weston@ventures52.com)
+### Technology · Supply chain · Workforce
+
+We partner with organizations and founders to build, scale and transform what's next.
+
+<br />
+
+[![Website](https://img.shields.io/badge/ventures52.com-0F0F0E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ventures52.com)
+[![SONNY](https://img.shields.io/badge/workwithsonny.com-0F766E?style=for-the-badge)](https://workwithsonny.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ventures-52/)
+[![Work with V52](https://img.shields.io/badge/Work_with_V52-F4F2ED?style=for-the-badge)](https://www.ventures52.com/contact)
 
 </div>
 
----
+<br />
 
-## 👋 About this organization
+> [!NOTE]
+> **Operator-led venture advisory** based in Long Beach, California, serving clients globally. Founded in 2018 on the bet that logistics would be won on technology.
 
-This is the engineering home of **SONNY**, an AI-powered job-matching and workforce platform built by **Ventures 52**. The code that powers SONNY lives here: the product, its services, and the tooling around it.
+<br />
 
-## 🤖 What is SONNY?
+## What we do
 
-**SONNY is an AI-powered gig marketplace for supply-chain and logistics workers.** Matching, verification, time tracking, and weekly payouts in one place, in English and Spanish.
+| | Service | |
+| :---: | :--- | :--- |
+| 🧑‍✈️ | **Fractional executive & operator** | Embedded leadership from operators who have sat in the seat and built the business. |
+| 🧭 | **Strategic advisory** | Strategy, growth, positioning, transformation and high-stakes decision support for leaders and boards. |
+| 🧠 | **AI ecosystem architecture** | Finding where AI creates real advantage, then building the ecosystem to capture it. |
+| 📈 | **Growth strategy** | Go-to-market that drives revenue, opens new markets and builds lasting advantage. |
+| 🚀 | **Ventures & angel investing** | Backing companies reshaping logistics, workforce, technology and the physical economy. |
 
-Generic job boards treat a HazMat-endorsed Class A driver and a barista as the same row in a database. SONNY doesn't. It's built like a **dispatcher, not a job board**: it knows the worker, brings verified work to them, and closes the loop from match to hours to pay.
+<br />
 
-- **For workers:** build a verified profile once and it *is* your application. Get matched to hourly and flat-rate gigs, track your time, and get paid weekly. SONNY AI answers your questions by text, because the workforce is on loading docks and in truck cabs, not at desks.
-- **For employers:** verify your business, post a gig from your phone, and get a short list of pre-screened candidates who already meet credential, insurance, and distance requirements. Then track loads and approve hours in one workspace.
-- **No black hole:** every application has a status. Silence is treated as a bug, not a default.
-- **No hidden markup:** employers post what the gig pays and workers see that number.
+## Featured product: SONNY
 
-SONNY is rolling out now across the lower 48 United States, with the deepest coverage around freight corridors, ports, and warehouse hubs. 👉 [workwithsonny.com](https://workwithsonny.com)
+<table>
+<tr>
+<td>
 
-## 🚚 What is Ventures 52?
+**The AI-powered gig marketplace for supply-chain and logistics workers.**
+Matching, verification, time tracking and weekly payouts in one place, in English and Spanish.
 
-**Ventures 52 (V52)** is an investment and advisory firm that backs early- and growth-stage companies in **freight, supply-chain innovation, and infrastructure-adjacent technology**. V52 brings operator experience, industry relationships, and strategic guidance to founders building for how goods and people move.
+Generic job boards treat a HazMat-endorsed Class A driver and a barista as the same row in a database. SONNY is built like a **dispatcher, not a job board**: it knows the worker, brings verified work to them, and closes the loop from match to hours to pay.
 
-SONNY is built and operated by Ventures 52 in Long Beach, California, home to one of the busiest port complexes in the country.
+</td>
+</tr>
+</table>
 
-## 🧭 Leadership: Weston LaBar, CEO
+<table>
+<tr>
+<th width="50%">👷 For workers</th>
+<th width="50%">🏢 For employers</th>
+</tr>
+<tr>
+<td valign="top">
 
-Weston LaBar is a logistics strategist and executive with nearly two decades of experience in goods movement, workforce development, and infrastructure modernization in Southern California.
+- Your verified profile **is** your application
+- Matched to hourly and flat-rate gigs
+- Time tracked, paid weekly
+- SONNY AI answers by text, built for loading docks and truck cabs
 
-- **CEO**, Ventures 52 and Quaynote Ventures
-- **Chief Strategy Officer**, Waterfront Logistics
-- **Chair of the Board**, Long Beach Economic Partnership and Long Beach Workforce Innovation Network
-- **Former CEO**, Harbor Trucking Association, which he built into the largest drayage-focused trade association in the U.S.
-- Former board member, ATA Intermodal Motor Carriers Conference and LA BizFed
+</td>
+<td valign="top">
 
-**What Weston offers:** strategic advisory and investment for freight and supply-chain tech startups; go-to-market and partnership strategy in logistics; freight and transportation policy expertise; and public-private collaboration on workforce and infrastructure.
+- Verify your business, post a gig from your phone
+- Short list of pre-screened candidates who meet credential, insurance and distance requirements
+- Track loads and approve hours in one workspace
 
-📬 Reach out: [weston@ventures52.com](mailto:weston@ventures52.com) · [LinkedIn](https://www.linkedin.com/in/westonlabar)
+</td>
+</tr>
+</table>
+
+| 🔕 No black hole | 💵 No hidden markup | 🗺️ Lower 48 |
+| :--- | :--- | :--- |
+| Every application has a status. Silence is a bug, not a default. | Employers post what the gig pays, and workers see that number. | Rolling out now, deepest around freight corridors, ports and warehouse hubs. |
+
+<p align="center">
+  <a href="https://workwithsonny.com"><strong>Explore SONNY →</strong></a>
+</p>
+
+<br />
+
+## Founder & CEO: Weston LaBar
+
+> *Forty percent of what America imports comes through two ports in Southern California. Weston has spent twenty years keeping that freight moving, and now making it smarter.*
+
+**Today**
+
+- **Founder & CEO**, Ventures 52
+- **Chief Strategy Officer**, Waterfront Logistics, a 3PL with an 85-acre flagship campus at the Ports of Los Angeles and Long Beach
+- **Chair**, Long Beach Workforce Innovation Board and Invest Long Beach
+- **Investor & board member**, RIOT Staffing, plus advisor and investor to a portfolio of logistics, workforce and clean-tech companies
+
+<details>
+<summary><strong>Track record</strong></summary>
+
+<br />
+
+- **Harbor Trucking Association:** CEO for seven years. Helped drive adoption of the Ocean Shipping Reform Act.
+- **Cargomatic:** helped grow revenue from $80M to $400M on the way to a unicorn Series C.
+- **M&A advisory:** advised SecurSpace, GeoStamp, Envase and WiseTech Global through the deals that consolidated drayage software.
+- **Founder** of PEAR Strategies (built and exited) and DrayTECH, a conference on the technology reshaping drayage.
+
+</details>
+
+**Work with Weston:** fractional leadership, strategic advisory, AI strategy, go-to-market and investment for companies in logistics, workforce and the physical economy.
+
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-0F0F0E?style=flat-square)](https://www.ventures52.com/contact)
+[![Weston on LinkedIn](https://img.shields.io/badge/Weston_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/westonlabar/)
+[![Full bio](https://img.shields.io/badge/Full_bio-F4F2ED?style=flat-square)](https://www.ventures52.com/founder)
+
+<br />
 
 ---
 
 <div align="center">
-<sub>© Ventures 52 · Long Beach, California</sub>
+<sub>© Ventures 52 · Long Beach, California · <a href="https://www.ventures52.com">ventures52.com</a></sub>
 </div>
